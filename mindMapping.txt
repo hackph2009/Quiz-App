@@ -1,0 +1,15 @@
+01 - Create JSON Object For Questions;
+02 - Create HTML MarkUp;
+03 - Add Dummy Data;
+04 - Style The MarkUp;
+05 - Fetch numbers of Questions From JSON File;
+06 - Show Questions Count and Category;
+07 - Show The Bullets Depend on number of Questions;
+08 - Set The Number for Right and Wrong Answers;
+09 - Create CountDown Timer;
+10 - Fetch The Questions from JSON Object;
+11 - Show First Question;
+12 - Check Answer And Hide, Show The Next;
+13 - Answer Is Wrong when timeout;
+14 - Add Classes Define correct and Wrong Answers;
+15 - Show The Result;
